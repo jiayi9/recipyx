@@ -1,2 +1,2 @@
 # recipyx
-The general event engine for formulation-style scheduling
+A general job scheduling tool formulation-style production planning.
